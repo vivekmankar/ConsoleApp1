@@ -9,7 +9,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
-            Debug.WriteLine("Hello World!");
+            Debug.WriteLine("Hello World Again!");
 
             int x;
             int y;
